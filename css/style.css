@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#page {
+    padding-top:80px;
+}
+
+#breadcrumbs {
+    width:100%;
+    position:fixed;
+    margin-top:-10px;
+}
